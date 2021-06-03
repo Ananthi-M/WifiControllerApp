@@ -1,2 +1,0 @@
-# WifiControllerApp
-Android App
